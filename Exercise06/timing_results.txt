@@ -1,0 +1,28 @@
+1 Thread
+Array size: 1000000
+Strip size: 1024
+C[0] = 6.00
+C[999999] = 6.00
+Verification: PASSED
+Execution time: 0.004639 seconds
+2 Threads
+Array size: 1000000
+Strip size: 1024
+C[0] = 6.00
+C[999999] = 6.00
+Verification: PASSED
+Execution time: 0.005082 seconds
+3 Threads
+Array size: 1000000
+Strip size: 1024
+C[0] = 6.00
+C[999999] = 6.00
+Verification: PASSED
+Execution time: 0.004796 seconds
+4 Threads
+Array size: 1000000
+Strip size: 1024
+C[0] = 6.00
+C[999999] = 6.00
+Verification: PASSED
+Execution time: 0.004807 seconds

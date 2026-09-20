@@ -1,0 +1,10 @@
+Thread # 1
+Hi again from thread # 1
+Thread # 2
+Hi again from thread # 2
+Thread # 3
+Hi again from thread # 3
+Thread # 0
+Inside Master # 0
+Exiting Master
+Hi again from thread # 0

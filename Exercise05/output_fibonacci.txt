@@ -1,0 +1,2 @@
+Fibonacci(20) = 6765
+Execution time = 0.013340 seconds

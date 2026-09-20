@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+exercise01
+exercise02
+exercise03
+exercise04_without_collapse
+exercise04_with_collapse
+exercise05
+exercise06
